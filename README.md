@@ -1,2 +1,2 @@
-# Movie-Trailer-Site
-Class project #6
+# ud036_StarterCode
+Source code for a Movie Trailer website.
