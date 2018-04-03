@@ -7,7 +7,7 @@ import movie
 
 CONFIG_PATTERN = 'http://api.themoviedb.org/3/configuration?api_key={key}'
 IMG_PATTERN = 'http://api.themoviedb.org/3/movie/{imdbid}/images?api_key={key}'
-KEY = '62fbb4e203f3267ceb3db785dcf8845d'
+KEY = 'key'
 language = 'http://api.themoviedb.org/3/movie/76341?api_key={key}&language=en'
 videos = 'https://api.themoviedb.org/3/movie/76341/videos?api_key={key}&language=en'
 
